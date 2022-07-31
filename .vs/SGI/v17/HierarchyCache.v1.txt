@@ -1,0 +1,469 @@
+﻿++Solución "SGI" ‎(3 de 3 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:SGI.sln
+++CapaPresentacion
+i:{00000000-0000-0000-0000-000000000000}:CapaPresentacion
+++Connected Services
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\connected services\
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\connected services\
+++Properties
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\properties\
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\properties\
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\properties\
+++Referencias
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++Resources
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\
+++App.config
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\app.config
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\app.config
+++BaseDeDatos.mdf
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\basededatos.mdf
+++BaseDeDatosDataSet.xsd
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\basededatosdataset.xsd
+++CrearAdmin.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\crearadmin.cs
+++form_bajaArticulo.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_bajaarticulo.cs
+++form_busquedaPorNombre.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_busquedapornombre.cs
+++form_cambiarClaves.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_cambiarclaves.cs
+++form_compras.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_compras.cs
+++form_consultarArticulo.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_consultararticulo.cs
+++form_crearVendedor.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_crearvendedor.cs
+++form_DatosComercio.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_datoscomercio.cs
+++form_editarProveedor.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_editarproveedor.cs
+++form_inversion.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_inversion.cs
+++form_ListadoArticulos.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_listadoarticulos.cs
+++form_login.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_login.cs
+++form_NuevoArticulo.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_nuevoarticulo.cs
+++form_NuevoProveedor.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_nuevoproveedor.cs
+++form_pagoaProveedor.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_pagoaproveedor.cs
+++form_pagoIva.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_pagoiva.cs
+++form_registrarGastos.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_registrargastos.cs
+++form_reporte_tickets_ventas.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reporte_tickets_ventas.cs
+++form_reporte_ventas.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reporte_ventas.cs
+++form_reporteCompras.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reportecompras.cs
+++form_reporteGastos.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reportegastos.cs
+++form_ReporteReposicion.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reportereposicion.cs
+++form_resporCC.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_resporcc.cs
+++form_stck_valuado.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_stck_valuado.cs
+++form_ventas.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_ventas.cs
+++form_VerCaja.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_vercaja.cs
+++Imprimir.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\imprimir.cs
+++ImprimirFacturas.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\imprimirfacturas.cs
+++packages.config
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\packages.config
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\packages.config
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\packages.config
+++presentacion.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\presentacion.cs
+++Principal.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\principal.cs
+++Program.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\program.cs
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\program.cs
+++registrar.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\registrar.cs
+++Report_CCproveedores.rdlc
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\report_ccproveedores.rdlc
+++Report_compras.rdlc
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\report_compras.rdlc
+++Report_deuda.rdlc
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\report_deuda.rdlc
+++Report_gastos.rdlc
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\report_gastos.rdlc
+++Report_ListadoDeArticulos.rdlc
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\report_listadodearticulos.rdlc
+++reporte_venta_fechas.rdlc
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\reporte_venta_fechas.rdlc
+++ReportReposicion.rdlc
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\reportreposicion.rdlc
+++AssemblyInfo.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\properties\assemblyinfo.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\properties\assemblyinfo.cs
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\properties\assemblyinfo.cs
+++Resources.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\properties\resources.resx
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\properties\resources.resx
+++Settings.settings
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\properties\settings.settings
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\properties\settings.settings
+++CapaDatos
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{00000000-0000-0000-0000-000000000000}:CapaDatos
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++facturar
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{00000000-0000-0000-0000-000000000000}:facturar
+++Microsoft.CSharp
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++Microsoft.ReportViewer.Design
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++Microsoft.ReportViewer.WinForms
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++Microsoft.SqlServer.Types
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++Newtonsoft.Json
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++PresentationCore
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+++PresentationFramework
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+++QRCoder
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+++System
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++System.Core
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++System.Data
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++System.Data.DataSetExtensions
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++System.Deployment
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++System.Drawing
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++System.Management
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+++System.Net.Http
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++System.ServiceModel
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++System.Windows.Forms
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++System.Xml
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++System.Xml.Linq
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++WindowsBase
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:
+++005-bill.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\005-bill.png
+++005-shopping cart.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\005-shopping cart.png
+++013-checkout.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\013-checkout.png
+++013-checkout1.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\013-checkout1.png
+++015-compare.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\015-compare.png
+++015-shopping cart.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\015-shopping cart.png
+++038-cash register.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\038-cash register.png
+++051-ready stock.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\051-ready stock.png
+++053-refund.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\053-refund.png
+++056-chat.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\056-chat.png
+++059-trolley.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\059-trolley.png
+++060-package.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\060-package.png
+++065-standard shipping.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\065-standard shipping.png
+++071-wallet.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\071-wallet.png
+++071-wallet1.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\071-wallet1.png
+++175-invoice.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\175-invoice.png
+++206-search.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\206-search.png
+++acceso.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\acceso.png
+++agregarVendedor.ico
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\agregarvendedor.ico
+++anadir-al-carrito.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\anadir-al-carrito.png
+++boleto.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\boleto.png
+++borrar.ico
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\borrar.ico
+++buscar.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\buscar.png
+++carga.gif
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\carga.gif
+++cargando.gif
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\cargando.gif
+++comprar.ico
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\comprar.ico
+++disquete-de-computadora.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\disquete-de-computadora.png
+++impresora.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\impresora.png
+++ingreso.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\ingreso.png
+++logo.bmp
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\logo.bmp
+++recibo.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\recibo.png
+++registro.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\registro.png
+++registro1.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\registro1.png
+++strategy.png
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\strategy.png
+++vender.ico
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\resources\vender.ico
+++BaseDeDatos_log.ldf
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\basededatos_log.ldf
+++BaseDeDatosDataSet.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\basededatosdataset.cs
+++BaseDeDatosDataSet.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\basededatosdataset.designer.cs
+++BaseDeDatosDataSet.xsc
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\basededatosdataset.xsc
+++BaseDeDatosDataSet.xss
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\basededatosdataset.xss
+++CrearAdmin.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\crearadmin.designer.cs
+++CrearAdmin.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\crearadmin.resx
+++form_bajaArticulo.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_bajaarticulo.designer.cs
+++form_bajaArticulo.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_bajaarticulo.resx
+++form_busquedaPorNombre.designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_busquedapornombre.designer.cs
+++form_busquedaPorNombre.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_busquedapornombre.resx
+++form_cambiarClaves.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_cambiarclaves.designer.cs
+++form_cambiarClaves.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_cambiarclaves.resx
+++form_compras.designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_compras.designer.cs
+++form_compras.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_compras.resx
+++form_consultarArticulo.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_consultararticulo.designer.cs
+++form_consultarArticulo.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_consultararticulo.resx
+++form_crearVendedor.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_crearvendedor.designer.cs
+++form_crearVendedor.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_crearvendedor.resx
+++form_DatosComercio.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_datoscomercio.designer.cs
+++form_DatosComercio.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_datoscomercio.resx
+++form_editarProveedor.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_editarproveedor.designer.cs
+++form_editarProveedor.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_editarproveedor.resx
+++form_inversion.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_inversion.designer.cs
+++form_inversion.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_inversion.resx
+++form_ListadoArticulos.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_listadoarticulos.designer.cs
+++form_ListadoArticulos.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_listadoarticulos.resx
+++form_login.designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_login.designer.cs
+++form_login.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_login.resx
+++form_NuevoArticulo.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_nuevoarticulo.designer.cs
+++form_NuevoArticulo.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_nuevoarticulo.resx
+++form_NuevoProveedor.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_nuevoproveedor.designer.cs
+++form_NuevoProveedor.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_nuevoproveedor.resx
+++form_pagoaProveedor.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_pagoaproveedor.designer.cs
+++form_pagoaProveedor.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_pagoaproveedor.resx
+++form_pagoIva.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_pagoiva.designer.cs
+++form_pagoIva.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_pagoiva.resx
+++form_registrarGastos.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_registrargastos.designer.cs
+++form_registrarGastos.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_registrargastos.resx
+++form_reporte_tickets_ventas.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reporte_tickets_ventas.designer.cs
+++form_reporte_tickets_ventas.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reporte_tickets_ventas.resx
+++form_reporte_ventas.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reporte_ventas.designer.cs
+++form_reporte_ventas.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reporte_ventas.resx
+++form_reporteCompras.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reportecompras.designer.cs
+++form_reporteCompras.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reportecompras.resx
+++form_reporteGastos.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reportegastos.designer.cs
+++form_reporteGastos.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reportegastos.resx
+++form_ReporteReposicion.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reportereposicion.designer.cs
+++form_ReporteReposicion.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_reportereposicion.resx
+++form_resporCC.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_resporcc.designer.cs
+++form_resporCC.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_resporcc.resx
+++form_stck_valuado.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_stck_valuado.designer.cs
+++form_stck_valuado.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_stck_valuado.resx
+++form_ventas.designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_ventas.designer.cs
+++form_ventas.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_ventas.resx
+++form_VerCaja.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_vercaja.designer.cs
+++form_VerCaja.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\form_vercaja.resx
+++ImprimirFacturas.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\imprimirfacturas.designer.cs
+++ImprimirFacturas.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\imprimirfacturas.resx
+++presentacion.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\presentacion.designer.cs
+++presentacion.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\presentacion.resx
+++Principal.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\principal.designer.cs
+++Principal.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\principal.resx
+++registrar.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\registrar.designer.cs
+++registrar.resx
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\registrar.resx
+++Resources.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\properties\resources.designer.cs
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{d2b7455d-4f09-4ac3-8391-c0ab2d7bcb89}:c:\users\mrush\desktop\sgifiscal - produccion-999\sgi\properties\settings.designer.cs
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\properties\settings.designer.cs
+++SqlServerTypes
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\sqlservertypes\
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\sqlservertypes\
+++app.config
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\app.config
+++Articulo.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\articulo.cs
+++Bajas.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\bajas.cs
+++Caja.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\caja.cs
+++Comercio.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\comercio.cs
+++Compra.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\compra.cs
+++Conexion.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\conexion.cs
+++DetalleCompra.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\detallecompra.cs
+++DetalleVenta.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\detalleventa.cs
+++Gastos.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\gastos.cs
+++Login.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\login.cs
+++Pagos.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\pagos.cs
+++Proveedor.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\proveedor.cs
+++Seguridad.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\seguridad.cs
+++Venta.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\venta.cs
+++System.Configuration
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:
+++x64
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\sqlservertypes\x64\
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\sqlservertypes\x64\
+++x86
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\sqlservertypes\x86\
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\sqlservertypes\x86\
+++Loader.cs
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\sqlservertypes\loader.cs
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\sqlservertypes\loader.cs
+++readme.htm
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\sqlservertypes\readme.htm
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\sqlservertypes\readme.htm
+++msvcr120.dll
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\sqlservertypes\x64\msvcr120.dll
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\sqlservertypes\x86\msvcr120.dll
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\sqlservertypes\x64\msvcr120.dll
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\sqlservertypes\x86\msvcr120.dll
+++SqlServerSpatial140.dll
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\sqlservertypes\x64\sqlserverspatial140.dll
+i:{89378a83-1f39-4193-94a5-3b62ebf8de89}:c:\users\mrush\desktop\sgifiscal - produccion-999\capadatos\sqlservertypes\x86\sqlserverspatial140.dll
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\sqlservertypes\x64\sqlserverspatial140.dll
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\sqlservertypes\x86\sqlserverspatial140.dll
+++WS
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\connected services\ws\
+++factura.cs
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:c:\users\mrush\desktop\proyecyo facturacion\facturar\facturar\factura.cs
+++Microsoft.ReportViewer.Common
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++Microsoft.ReportViewer.DataVisualization
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++Microsoft.ReportViewer.ProcessingObjectModel
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:
+++System.Runtime.Serialization
+i:{bf17df21-7734-41f4-a69e-928aa54db14d}:

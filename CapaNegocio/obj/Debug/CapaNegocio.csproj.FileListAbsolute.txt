@@ -1,0 +1,18 @@
+C:\Users\mrush\Desktop\PP\SGI\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\mrush\Desktop\PP\SGI\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Desktop\PP\SGI\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\mrush\Desktop\PP\SGI\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\mrush\Desktop\PP\SGI\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\PP\SGI\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\PP\SGI\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\mrush\Desktop\PP\SGI\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\mrush\Desktop\PP\SGI\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaNegocio\obj\Debug\CapaNegocio.pdb

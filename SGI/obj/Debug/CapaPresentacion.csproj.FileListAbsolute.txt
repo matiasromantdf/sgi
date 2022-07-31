@@ -1,0 +1,816 @@
+C:\Users\mrush\Desktop\PP\SGI\SGI\obj\Debug\SGI.form_login.resources
+C:\Users\mrush\Desktop\PP\SGI\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\mrush\Desktop\PP\SGI\SGI\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mrush\Desktop\PP\SGI\SGI\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Desktop\PP\SGI\SGI\bin\Debug\BaseDeDatos.mdf
+C:\Users\mrush\Desktop\PP\SGI\SGI\bin\Debug\BaseDeDatos_log.ldf
+C:\Users\mrush\Desktop\PP\SGI\SGI\bin\Debug\SGI.exe.config
+C:\Users\mrush\Desktop\PP\SGI\SGI\bin\Debug\SGI.exe
+C:\Users\mrush\Desktop\PP\SGI\SGI\bin\Debug\SGI.pdb
+C:\Users\mrush\Desktop\PP\SGI\SGI\bin\Debug\CapaNegocio.dll
+C:\Users\mrush\Desktop\PP\SGI\SGI\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\PP\SGI\SGI\bin\Debug\CapaNegocio.pdb
+C:\Users\mrush\Desktop\PP\SGI\SGI\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\PP\SGI\SGI\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\mrush\Desktop\PP\SGI\SGI\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mrush\Desktop\PP\SGI\SGI\obj\Debug\SGI.exe
+C:\Users\mrush\Desktop\PP\SGI\SGI\obj\Debug\SGI.pdb
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\BaseDeDatos.mdf
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\BaseDeDatos_log.ldf
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\SGI.exe.config
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\SGI.exe
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\SGI.pdb
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_login.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.exe
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.pdb
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_NuevoProveedor.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.Principal.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_NuevoArticulo.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_VerCaja.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_compras.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_busquedaPorNombre.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.CrearAdmin.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_CrearVendedor.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\RdlCompile.cache
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\RdlCompile.compiled
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_ventas.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_modificarArticulo.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\stdole.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.exe.config
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_ReporteReposicion.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_ListadoArticulos.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.presentacion.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\bin\Debug\app.config
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_inversion.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_cambiarClaves.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_reporte_ventas.resources
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\SGI\obj\Debug\SGI.form_stck_valuado.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\app.config
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\BaseDeDatos.mdf
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\BaseDeDatos_log.ldf
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SGI.exe.config
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SGI.exe
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SGI.pdb
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\stdole.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.exe.config
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.CrearAdmin.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_busquedaPorNombre.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_cambiarClaves.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_compras.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_crearVendedor.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_inversion.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_ListadoArticulos.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_login.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_NuevoArticulo.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_NuevoProveedor.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_ReporteReposicion.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_reporte_ventas.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_stck_valuado.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_ventas.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_VerCaja.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.presentacion.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.Principal.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\RdlCompile.cache
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\RdlCompile.compiled
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.exe
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.pdb
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_editarProveedor.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_bajaArticulo.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_consultarArticulo.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_pagoaProveedor.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_resporCC.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_registrarGastos.resources
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_reporteGastos.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\app.config
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SGI.exe.config
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SGI.exe
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\SGI.pdb
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\stdole.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.exe.config
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.CrearAdmin.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_bajaArticulo.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_busquedaPorNombre.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_cambiarClaves.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_compras.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_consultarArticulo.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_crearVendedor.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_editarProveedor.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_inversion.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_ListadoArticulos.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_login.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_NuevoArticulo.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_NuevoProveedor.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_pagoaProveedor.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_registrarGastos.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_reporteGastos.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_ReporteReposicion.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_reporte_ventas.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_resporCC.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_stck_valuado.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_ventas.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_VerCaja.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.presentacion.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.Principal.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\RdlCompile.cache
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\RdlCompile.compiled
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.exe
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.pdb
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_reporteCompras.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\BaseDeDatosDataSet.cs
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\BaseDeDatosDataSet.Designer.cs
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\BaseDeDatosDataSet.xsc
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\BaseDeDatosDataSet.xsd
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\BaseDeDatosDataSet.xss
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\obj\Debug\SGI.form_pagoIva.resources
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\BaseDeDatos_log.ldf
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\SGI\bin\Debug\BaseDeDatos.mdf
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\app.config
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\BaseDeDatosDataSet.xsd
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\BaseDeDatos_log.ldf
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\BaseDeDatos.mdf
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\BaseDeDatosDataSet.cs
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\BaseDeDatosDataSet.Designer.cs
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\BaseDeDatosDataSet.xsc
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\BaseDeDatosDataSet.xss
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\SGI.exe.config
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\SGI.exe
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\SGI.pdb
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\stdole.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.exe.config
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.CrearAdmin.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_bajaArticulo.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_busquedaPorNombre.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_cambiarClaves.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_compras.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_consultarArticulo.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_crearVendedor.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_editarProveedor.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_inversion.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_ListadoArticulos.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_login.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_NuevoArticulo.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_NuevoProveedor.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_pagoaProveedor.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_pagoIva.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_registrarGastos.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_reporteCompras.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_reporteGastos.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_ReporteReposicion.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_reporte_ventas.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_resporCC.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_stck_valuado.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_ventas.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_VerCaja.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.presentacion.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.Principal.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\RdlCompile.cache
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\RdlCompile.compiled
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.exe
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.pdb
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\facturar.exe
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\facturar.pdb
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\facturar.exe.config
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\QRCoder.dll
+C:\Users\mrush\Desktop\SGIFiscal\SGI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.form_DatosComercio.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.registrar.resources
+C:\Users\mrush\Desktop\SGIFiscal\SGI\obj\Debug\SGI.ImprimirFacturas.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\app.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\BaseDeDatosDataSet.xsd
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\BaseDeDatos_log.ldf
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\BaseDeDatos.mdf
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\BaseDeDatosDataSet.cs
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\BaseDeDatosDataSet.Designer.cs
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\BaseDeDatosDataSet.xsc
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\BaseDeDatosDataSet.xss
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\SGI.exe.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\SGI.exe
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\SGI.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\facturar.exe
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\QRCoder.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\stdole.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\facturar.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\facturar.exe.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.exe.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.CrearAdmin.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_bajaArticulo.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_busquedaPorNombre.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_cambiarClaves.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_compras.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_consultarArticulo.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_crearVendedor.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_DatosComercio.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_editarProveedor.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_inversion.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_ListadoArticulos.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_login.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_NuevoArticulo.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_NuevoProveedor.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_pagoaProveedor.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_pagoIva.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_registrarGastos.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_reporteCompras.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_reporteGastos.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_ReporteReposicion.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_reporte_ventas.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_resporCC.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_stck_valuado.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_ventas.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.form_VerCaja.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.ImprimirFacturas.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.presentacion.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.Principal.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.registrar.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\RdlCompile.cache
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\RdlCompile.compiled
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.exe
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\SGI\obj\Debug\SGI.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\app.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\BaseDeDatosDataSet.xsd
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\BaseDeDatosDataSet.cs
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\BaseDeDatosDataSet.Designer.cs
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\BaseDeDatosDataSet.xsc
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\BaseDeDatosDataSet.xss
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\SGI.exe.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\SGI.exe
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\SGI.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\facturar.exe
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\QRCoder.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\stdole.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\facturar.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\facturar.exe.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.exe.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.CrearAdmin.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_bajaArticulo.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_busquedaPorNombre.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_cambiarClaves.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_compras.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_consultarArticulo.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_crearVendedor.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_DatosComercio.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_editarProveedor.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_inversion.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_ListadoArticulos.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_login.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_NuevoArticulo.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_NuevoProveedor.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_pagoaProveedor.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_pagoIva.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_registrarGastos.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_reporteCompras.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_reporteGastos.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_ReporteReposicion.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_reporte_ventas.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_resporCC.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_stck_valuado.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_ventas.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_VerCaja.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.ImprimirFacturas.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.presentacion.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.Principal.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.registrar.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.exe
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\SGI.form_reporte_tickets_ventas.resources
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\EnvDTE.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\EnvDTE80.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\VSLangProj.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\VSLangProj80.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\bin\Debug\VSLangProj2.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\SGI\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache

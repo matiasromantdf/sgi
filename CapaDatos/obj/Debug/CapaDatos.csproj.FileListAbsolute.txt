@@ -1,0 +1,557 @@
+C:\Users\mrush\Desktop\PP\SGI\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\PP\SGI\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\PP\SGI\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\mrush\Desktop\PP\SGI\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Desktop\PP\SGI\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\PP\SGI\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\stdole.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\5to Semestre\Practica Profesionalizante 2\PP\SGI\CapaDatos\bin\Debug\app.config
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\app.config
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\stdole.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mrush\Google Drive\terciario\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\app.config
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\stdole.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mrush\Google Drive\tecnico Des Soft\6to Semestre\Practica Profesionalizante 3\SGI\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\app.config
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\stdole.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\SGIFiscal\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\app.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\stdole.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\app.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\EnvDTE.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\stdole.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\EnvDTE80.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\VSLangProj.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\VSLangProj80.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\VSLangProj2.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\EnvDTE.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\EnvDTE80.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\VSLangProj.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\VSLangProj80.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\bin\Debug\VSLangProj2.xml
+C:\Users\mrush\Desktop\SGIFiscal - PRODUCCION-999\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache

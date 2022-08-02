@@ -71,6 +71,7 @@
             this.btn_registrar = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.btn_agregar = new System.Windows.Forms.Button();
+            this.label13 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.datagrid_detalle)).BeginInit();
             this.SuspendLayout();
             // 
@@ -451,12 +452,22 @@
             this.btn_agregar.Click += new System.EventHandler(this.btn_agregar_Click);
             this.btn_agregar.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.btn_agregar_KeyPress);
             // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Location = new System.Drawing.Point(216, 19);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(41, 13);
+            this.label13.TabIndex = 27;
+            this.label13.Text = "label13";
+            // 
             // form_ventas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(884, 451);
+            this.Controls.Add(this.label13);
             this.Controls.Add(this.txt_105);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.txt_21);
@@ -536,5 +547,6 @@
         private System.Windows.Forms.TextBox txt_21;
         private System.Windows.Forms.TextBox txt_105;
         private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label label13;
     }
 }

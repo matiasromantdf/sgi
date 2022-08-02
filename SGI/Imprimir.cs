@@ -135,9 +135,13 @@ namespace SGI
             if (!impresora.Equals(""))
             {
                 pr.PrinterSettings.PrinterName = impresora;
+                
             }
             pr.PrintPage += new PrintPageEventHandler(pr_PrintPage);
+            pr.PrinterSettings.Copies = 2;
             pr.Print();
+            
+           
         }
 
         private void pr_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)

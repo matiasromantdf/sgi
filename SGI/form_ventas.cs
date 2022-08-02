@@ -13,6 +13,7 @@ using QRCoder;
 using System.Web;
 using Newtonsoft.Json;
 using System.Globalization;
+using System.Threading;
 
 namespace SGI
 
@@ -305,7 +306,8 @@ namespace SGI
             imprime.AddSubHeaderLine("C.U.I.T.: " + comercio.cuit);
             imprime.AddSubHeaderLine("Dirección: "+comercio.direccion);
             imprime.AddSubHeaderLine("IIBB: "+comercio.iibb);
-            
+            imprime.AddSubHeaderLine("FACTURA C (cod 11)");//casos monotributo
+
 
             foreach (DetalleVenta det in venta.detalle)
             {
@@ -316,17 +318,14 @@ namespace SGI
             imprime.AddTotal("Total= ", venta.Bruto.ToString("C",ci));
 
             imprime.PrintTicket();
-            imprime.PrintTicket();//imprime dos veces
+        
 
             Form nuevo = new form_ventas(); //se crea un nuevo from para reinicializar
             nuevo.Show();
             this.Dispose();
 
         }
-        private void PrepararFactura()
-        {
-            
-        }
+ 
 
         private void btn_facturar_Click(object sender, EventArgs e)
         {
@@ -349,7 +348,7 @@ namespace SGI
 
             string caeObtenido = fact.DevolverCae(); //si hay error el cae viene en blanco
 
-            if(caeObtenido !="") // si no hay cae por algun error no se imprime el QR
+            if(caeObtenido != "") // si no hay cae por algun error no se imprime el QR
             {
                 DatosParaQR cadenaQr = new DatosParaQR();
                 cadenaQr.Fecha = DateTime.Today;
@@ -383,7 +382,47 @@ namespace SGI
 
             }
 
-            RegistrareImprimir();
+            venta.Cliente = txt_cliente.Text;
+            if (venta.Bruto > 0)
+            {
+                venta.Bruto = float.Parse(txt_total.Text);
+                venta.Registrar(); // se registra la venta y se procesa cada articulo
+                MessageBox.Show("Venta registrada, ticket: " + venta.IdVenta);
+                foreach (DetalleVenta det in venta.detalle)
+                {
+                    det.Registrar();
+                }
+
+
+            }
+            else
+                MessageBox.Show("No hay nada que registrar!");
+
+
+            imprime.AddHeaderLine(comercio.nombre);
+            imprime.AddSubHeaderLine("C.U.I.T.: " + comercio.cuit);
+            imprime.AddSubHeaderLine("Dirección: " + comercio.direccion);
+            imprime.AddSubHeaderLine("IIBB: " + comercio.iibb);
+            imprime.AddSubHeaderLine("FACTURA C (cod 11)");//casos monotributo
+            imprime.AddSubHeaderLine("Nro. Factura: " + fact.vUltimoRecibo);
+
+
+            foreach (DetalleVenta det in venta.detalle)
+            {
+                imprime.AddItem(det.Cantidad.ToString(), "($" + Math.Round(det.articulo.Precio_articulo * ((det.articulo.Iva / 100) + 1), 2) + ") " + det.articulo.Descr_articulo, det.Subtotal.ToString("C", ci));
+            }
+
+            // imprime.AddTotal("IVA = ",venta.Iva.ToString("C",ci));
+            imprime.AddTotal("Total= ", venta.Bruto.ToString("C", ci));
+
+            imprime.PrintTicket();
+           
+           
+
+            Form nuevo = new form_ventas(); //se crea un nuevo from para reinicializar
+            nuevo.Show();
+            this.Dispose();
+
 
         }
 
